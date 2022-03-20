@@ -57,4 +57,4 @@ for x in range(1,6):
   plt.bar(range(10), prediction[0])
   plt.show()
   print("prediction: class", np.argmax(prediction[0]))
-  
+ 
